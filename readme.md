@@ -41,15 +41,17 @@ Steps to use win-app
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## To add test user and his dummy product into the MongoDB collections
-1. enter to the win-app directory path using terminal/cmd prompt
-2. use "node generateData.js", it will simply create user "winuser" with password as "win@123"
+1. Enter to the win-app directory path using terminal/cmd prompt
+2. Use "node generateData.js", it will simply create user "winuser" with password as "win@123"
 
+## API Documentation
 Now you are done with project installation. visit the win-apidoc/index.html with any browser and refer api documentation
  for signIn.
 
+## Example API Endpoint
 signIn api will provide you token value, use that value for all other api's for authentication purpose.
 
-##If you need further assistance,Feel free to connect me @
+## If you need further assistance,Feel free to connect me @
 vipul.bigbadguy@rediffmail.com
 www.linkedin.com/in/vipultechfreak
 +91-7798471474
